@@ -15,7 +15,7 @@ class Person
   @weight = weight
   @handed = handed
   @complexion = complexion
-  @t_shirt_size = large
+  @t_shirt_size = t_shirt_size
   @wrist_size = wrist_size
    @glove_size = glove_size
    @pant_length = pant_length
